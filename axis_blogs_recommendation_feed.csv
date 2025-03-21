@@ -5,7 +5,7 @@
 ## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
 ## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
 ##
-RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.ctaName,entity.custom2,entity.custom3,entity.custom4
+RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.ctaName,entity.custom2,entity.custom3,entity.custom4,...
 DSA,Digital Savings Account,SA,,https://www.axisbank.com/images/default-source/revamp_new/progresswithus/tips-to-save-more-in-2025-300x200.jpg?sfvrsn=a45ae656_2,,https://www.axisbank.com/progress-with-us-articles/savings/savings-account/tips-to-save-more-in-2025,,,Secrets to boost your savings,,,
 DSA,Digital Savings Account,SA,,https://www.axisbank.com/images/default-source/progress-with-us_new/jan-dhan-account-online-300x200.jpg?sfvrsn=14a0e356_2,,https://www.axisbank.com/progress-with-us-articles/savings/savings-account/how-to-open-jan-dhan-account-online,,,Guide to Jan Dhan Yojana Account,,,
 DSA,Digital Savings Account,SA,,https://www.axisbank.com/images/default-source/progress-with-us_new/cash-deposit-limit-in-saving-account_300x200-1.jpg?sfvrsn=3539f956_2,,https://www.axisbank.com/progress-with-us-articles/money-matters/save-invest/cash-deposit-limit-in-saving-account,,,Guide to the Cash Deposit Limit in a Savings Account,,,
